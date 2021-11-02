@@ -1,4 +1,5 @@
-# untitled
+#John and Joe's App
+Just for fun. Let's make something useful.
 
 ## Project setup
 ```
